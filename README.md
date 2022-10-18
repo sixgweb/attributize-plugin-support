@@ -1,1 +1,1 @@
-# attributize-plugin-support
+# Support for the Attributize Plugin
